@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "C:/Users/woopqww111/Desktop/\u4FDD\u536B\u841D\u535C/Assets/Game/Scene/0.Init.unity"
+  isLoaded: 1
+  isActive: 1
